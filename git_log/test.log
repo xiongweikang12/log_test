@@ -1,0 +1,38 @@
+2022-10-28 21:44:04 DEBUG C:\Users\a1761\source\repos\log_debug\main.cpp:9
+2022-10-29 09:06:28 DEBUG C:\Users\a1761\source\repos\log_debug\main.cpp:9
+2022-10-29 09:09:46 DEBUG C:\Users\a1761\source\repos\log_debug\main.cpp:9
+2022-10-29 09:10:04 DEBUG C:\Users\a1761\source\repos\log_debug\main.cpp:9
+2022-10-29 12:21:44 DEBUG C:\Users\a1761\source\repos\log_debug\main.cpp:10
+2022-10-29 12:28:11 DEBUG C:\Users\a1761\source\repos\log_debug\main.cpp:10
+2022-10-29 12:28:11 DEBUG C:\Users\a1761\source\repos\log_debug\main.cpp:12
+2022-10-29 12:34:44 DEBUG C:\Users\a1761\source\repos\log_debug\main.cpp:10
+2022-10-29 12:34:44 DEBUG C:\Users\a1761\source\repos\log_debug\main.cpp:12
+2022-10-29 12:34:44 INFO C:\Users\a1761\source\repos\log_debug\main.cpp:13
+2022-10-29 12:34:44 WARN C:\Users\a1761\source\repos\log_debug\main.cpp:14
+2022-10-29 12:34:44 ERROR C:\Users\a1761\source\repos\log_debug\main.cpp:15
+2022-10-29 12:34:44 FATAL C:\Users\a1761\source\repos\log_debug\main.cpp:16
+2022-10-29 12:40:52 DEBUG C:\Users\a1761\source\repos\log_debug\main.cpp:11
+2022-10-29 12:40:52 DEBUG C:\Users\a1761\source\repos\log_debug\main.cpp:13
+2022-10-29 12:40:52 INFO C:\Users\a1761\source\repos\log_debug\main.cpp:14
+2022-10-29 12:40:52 WARN C:\Users\a1761\source\repos\log_debug\main.cpp:15
+2022-10-29 12:40:52 ERROR C:\Users\a1761\source\repos\log_debug\main.cpp:16
+2022-10-29 12:40:52 FATAL C:\Users\a1761\source\repos\log_debug\main.cpp:17
+2022-10-29 12:40:52 ERROR C:\Users\a1761\source\repos\log_debug\test1.cpp:14
+2022-10-29 20:44:35 DEBUG C:\Users\a1761\source\repos\log_debug\main.cpp:11
+2022-10-29 20:44:35 ERROR C:\Users\a1761\source\repos\log_debug\test1.cpp:14
+2022-10-31 13:35:23 DEBUG C:\Users\a1761\source\repos\log_debug\main.cpp:11
+2022-10-31 13:35:23 ERROR C:\Users\a1761\source\repos\log_debug\test1.cpp:14
+2022-10-31 16:22:40 DEBUG C:\Users\a1761\source\repos\log_debug\main.cpp:11
+2022-10-31 16:22:40 ERROR C:\Users\a1761\source\repos\log_debug\test1.cpp:14
+2022-10-31 16:23:00 DEBUG C:\Users\a1761\source\repos\log_debug\main.cpp:11
+2022-10-31 16:23:00 ERROR C:\Users\a1761\source\repos\log_debug\test1.cpp:14
+2022-10-31 16:23:50 DEBUG C:\Users\a1761\source\repos\log_debug\main.cpp:11
+2022-10-31 16:23:50 ERROR C:\Users\a1761\source\repos\log_debug\test1.cpp:14
+2022-10-31 16:25:55 DEBUG C:\Users\a1761\source\repos\log_debug\main.cpp:11
+2022-10-31 16:25:55 ERROR C:\Users\a1761\source\repos\log_debug\test1.cpp:14
+2022-10-31 16:57:08 DEBUG C:\Users\a1761\source\repos\log_debug\main.cpp:11hello world
+2022-10-31 16:57:08 ERROR C:\Users\a1761\source\repos\log_debug\test1.cpp:14test no
+2022-10-31 16:57:08 DEBUG C:\Users\a1761\source\repos\log_debug\main.cpp:21my name is jack,age is 20
+2022-11-02 15:05:56 DEBUG C:\Users\a1761\source\repos\log_debug\main.cpp:11	hello world
+2022-11-02 15:05:56 ERROR C:\Users\a1761\source\repos\log_debug\test1.cpp:14	test no
+2022-11-02 15:05:56 DEBUG C:\Users\a1761\source\repos\log_debug\main.cpp:21	hello
