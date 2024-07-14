@@ -3,6 +3,7 @@
 #include <string>
 #include <fstream>
 
+#define Log_API _declspec(dllexport)
 using namespace std;
 
 namespace yazi
@@ -25,7 +26,7 @@ Logger::instance()->log(Logger::level::ERROR,__FILE__, __LINE__,format,##__VA_AR
 Logger::instance()->log(Logger::level::FATAL,__FILE__, __LINE__,format,##__VA_ARGS__)
 
 
-	class Logger
+	class Log_API Logger
 	{
 	public:
 		enum class level
@@ -53,7 +54,7 @@ Logger::instance()->log(Logger::level::FATAL,__FILE__, __LINE__,format,##__VA_AR
 	private:
 		string m_filename;
 		ofstream  m_fout;
-		static const char* s_level[int(level::LEVEL_COUNT)];
+		static const char* s_level[int(level::LEVEL_COUNT)]; //¾²Ì¬µÄÊý×é
 		static Logger* m_instance;
 		int m_max;
 		int m_len;
